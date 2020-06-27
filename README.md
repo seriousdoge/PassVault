@@ -5,4 +5,4 @@ PassVault, a tiny encryptor to secure your strings. It uses DPAPI for user ident
 
 ![Login Screen] <img src="https://github.com/seriousdoge/PassVault/tree/master/PassVault/Login.png?raw=true" width="800" />
 
-![Vault Screen](https://github.com/seriousdoge/PassVault/tree/master/PassVault/Vault.png?raw=true)
+![Vault Screen](https://raw.githubusercontent.com/seriousdoge/PassVault/master/PassVault/Vault.png)
