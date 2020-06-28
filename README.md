@@ -1,5 +1,5 @@
 # PassVault  <img src="https://raw.githubusercontent.com/seriousdoge/PassVault/master/key1.png" width="120" height="65" />
-Password Encryptor coded in C#
+Password Encryptor coded in C#.
 
 PassVault, a tiny encryptor to secure your strings. It uses DPAPI for user identification/authentication and AES 256 for Data Store. Run time encryption and decryption.
 
