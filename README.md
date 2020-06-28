@@ -5,6 +5,8 @@ PassVault, a tiny encryptor to secure storage of your strings. It uses DPAPI for
 
 **Login Screen**
 
+When opening the application for the first time, set a key, which will be used for subsequent logins. 
+
 <img src="https://raw.githubusercontent.com/seriousdoge/PassVault/master/PassVault/Login.png" width="400" height="200" />
 
 
