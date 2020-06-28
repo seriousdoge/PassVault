@@ -12,4 +12,4 @@ When opening the application for the first time, set a key, which will be used f
 
 **Vault Screen**
 
-<img src="https://raw.githubusercontent.com/seriousdoge/PassVault/master/PassVault/Vault.png" width="400" height="320" />
+<img src="https://raw.githubusercontent.com/seriousdoge/PassVault/master/PassVault/Vault.png" width="450" height="320" />
